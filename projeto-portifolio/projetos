@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meus Projetos</title>
+  <link rel="stylesheet" href="projeto.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Meus Projetos</h1>
+    <div class="botoes">
+      <a href="https://www.canva.com/design/DAGiTSmAAs4/APeZiye5p1DEtWVY3QbRkQ/view?utm_content=DAGiTSmAAs4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h174f884c06" class="btn" target="_blank">Projeto 1</a>
+      <a href="https://www.canva.com/design/DAGdmpoNuaY/VY5w6vFn-4EvEtirurwRfQ/view?utm_content=DAGdmpoNuaY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h51fe7bc10f" class="btn" target="_blank">Projeto 2</a>
+    </div>
+  </div>
+</body>
+</html>
